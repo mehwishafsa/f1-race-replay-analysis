@@ -1,3 +1,19 @@
+## 🚀 My Work & Learnings
+
+This repository is a fork of the original **F1 Race Replay** project.
+
+### What I did:
+- Explored Formula 1 telemetry data using FastF1
+- Studied race replay and visualization pipelines
+- Understood how Python can be used for sports data analytics
+- Planning to add driver-wise performance visualizations
+
+This project helped me improve my understanding of:
+- Python data handling
+- Visualization-driven analysis
+- Reading and learning from real-world open-source code
+
+
 # F1 Race Replay 🏎️ 🏁
 
 A Python application for visualizing Formula 1 race telemetry and replaying race events with interactive controls and a graphical interface.
